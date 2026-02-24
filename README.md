@@ -4,6 +4,7 @@ This project focuses on analyzing business data to generate actionable insights 
 Using tools like Excel, Power BI, and SQL, the project includes data modeling, DAX calculations, and dynamic visualizations to present metrics such as revenue, profit, growth rate, and performance comparisons in a clear and structured format.
 
 **Key points for this dashboard**
+
 📊 KPI Monitoring – Tracks important performance metrics in one view.
 
 📈 Trend Analysis – Shows month-wise or category-wise performance trends.
